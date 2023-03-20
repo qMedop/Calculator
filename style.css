@@ -31,7 +31,6 @@ input:focus {
 .Cont {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
     padding: 5px 5px 0px 5px;
 }
 h1 {
